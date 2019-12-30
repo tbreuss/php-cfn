@@ -1,3 +1,8 @@
+[![Packagist](https://img.shields.io/packagist/dt/tebe/php-cfn.svg)](https://packagist.org/packages/tebe/php-cfn)
+[![GitHub (pre-)release](https://img.shields.io/github/release/tbreuss/php-cfn/all.svg)](https://github.com/tbreuss/php-cfn/releases)
+[![License](https://img.shields.io/github/license/tbreuss/php-cfn.svg)](https://github.com/tbreuss/php-cfn/blob/master/LICENSE)
+[![PHP from Packagist](https://img.shields.io/packagist/php-v/tebe/php-cfn.svg)](https://packagist.org/packages/tebe/php-cfn)
+
 # PHP RFC: Consistent Function Names
 
 Userland implementation of [PHP RFC: Consistent Function Names](https://wiki.php.net/rfc/consistent_function_names). It
