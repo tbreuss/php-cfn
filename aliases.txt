@@ -189,7 +189,7 @@ sapi_request_headers getallheaders
 apache_virtual virtual
 apache_get_env apache_getenv
 apache_set_env apache_setenv
-date_format date
+date date
 date_get getdate
 date_check checkdate
 time_part idate

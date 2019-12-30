@@ -18,7 +18,7 @@ Please read the RCF for more information: https://wiki.php.net/rfc/consistent_fu
 
 ## Installation
 
-    composer require jasny/consistent-function-names
+    composer require tebe/php-cfn
 
 ## Functions
 
@@ -277,7 +277,6 @@ apache_set_env | apache_setenv |
 
 New | Old | Comment
 --- | --- | ---
-**date_format** | date | (Return formatted date string of timestamp)(IEEE)  
 **date_get** | getdate | (Return array date)(IEEE)  
 **date_check** | checkdate | 
 **time_part** | idate | (Retrieve part of date information as int according to format) 
