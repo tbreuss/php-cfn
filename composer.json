@@ -1,5 +1,5 @@
 {
-    "name": "jasny/consistent-function-names",
+    "name": "tebe/php-cfn",
     "description": "Userland implementation of PHP RFC: Consistent Function Names",
     "homepage": "https://wiki.php.net/rfc/consistent_function_names",
     "license": "MIT",
@@ -9,9 +9,6 @@
     "require-dev": {
         "ext-pcre": "*",
         "jetbrains/phpstorm-stubs": "*"
-    },
-    "suggest": {
-        "jasny/php-functions": "A set PHP functions that should have been part of PHP's core libraries."
     },
     "autoload": {
         "files": ["src/functions.php"]
